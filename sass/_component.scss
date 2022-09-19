@@ -75,3 +75,12 @@ h1 {
 .form-group {
   height: 55px;
 }
+
+.form-input {
+  width: 97%;
+  padding: 5px;
+  border: 2px solid $color-primary;
+  border-radius: $border-radius;
+  display: block;
+  outline: none;
+}
