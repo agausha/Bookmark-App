@@ -16,4 +16,5 @@ body {
 
 .item {
   background: hsla(0deg, 0%, 0%, 0.5);
+  color: hsl(0deg, 0%, 100%);
 }/*# sourceMappingURL=main.css.map */
