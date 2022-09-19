@@ -44,6 +44,15 @@ h1:hover {
   justify-content: center;
 }
 
+.modal {
+  background: hsl(0deg, 0%, 100%);
+  box-shadow: 0 0 10px hsla(0deg, 0%, 0%, 0.8);
+  max-width: 95%;
+  width: 500px;
+  -webkit-animation: modalopen 1s;
+          animation: modalopen 1s;
+}
+
 .container {
   display: flex;
   flex-wrap: wrap;

@@ -31,3 +31,11 @@ h1 {
   align-items: center;
   justify-content: center;
 }
+
+.modal {
+  background: $white-color-bg;
+  box-shadow: 0 0 10px $black-color;
+  max-width: 95%;
+  width: 500px;
+  animation: modalopen 1s;
+}
