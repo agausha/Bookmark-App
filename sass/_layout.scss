@@ -22,5 +22,7 @@ a {
   text-transform: uppercase;
 
   &:link,
-  &:visited {}
+  &:visited {
+    color: $text-color;
+  }
 }

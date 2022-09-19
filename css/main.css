@@ -29,4 +29,7 @@ a {
   font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
+}
+a:link, a:visited {
+  color: hsl(0deg, 0%, 100%);
 }/*# sourceMappingURL=main.css.map */
