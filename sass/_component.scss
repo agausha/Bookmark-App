@@ -95,3 +95,22 @@ h1 {
   font-size: 0.8rem;
   color: $error-color;
 }
+
+button {
+  cursor: pointer;
+  color: $text-color;
+  background: $color-primary;
+  border: none;
+  height: 30px;
+  width: 100px;
+  border-radius: $border-radius;
+  margin-top: 10px;
+
+  &:hover {
+    filter: brightness(110%);
+  }
+
+  &:focus {
+    outline: none;
+  }  
+}
