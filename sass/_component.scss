@@ -59,3 +59,9 @@ h1 {
   right: 13px;
   cursor: pointer;
 }
+
+.modal-header {
+  background: $color-primary;
+  color: $text-color;
+  padding: 15px;
+}
