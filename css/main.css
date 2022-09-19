@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Karla&display=swap");
 html {
   box-sizing: border-box;
+}
+
+body {
+  font-family: "Karla", sans-serif;
 }/*# sourceMappingURL=main.css.map */
