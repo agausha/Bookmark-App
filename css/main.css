@@ -20,4 +20,7 @@ body {
   border-radius: 5px;
   padding: 20px;
   margin: 10px;
+}
+.item:hover {
+  background: hsla(0deg, 0%, 0%, 0.8);
 }/*# sourceMappingURL=main.css.map */
