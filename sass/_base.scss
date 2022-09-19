@@ -13,3 +13,7 @@ $black-color-bg-1: hsla(0, 0%, 0%, 0.6);
 /////////////////////////////////////////
 // BORDER RADIUS
 $border-radius: 5px;
+
+html {
+  box-sizing: border-box;
+}
