@@ -28,6 +28,8 @@ a {
   }
 
   &:hover,
-  &:active {}
+  &:active {
+    text-decoration: underline;
+  }
 }
 

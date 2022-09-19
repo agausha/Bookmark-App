@@ -33,4 +33,7 @@ a {
 a:link, a:visited {
   color: hsl(0deg, 0%, 100%);
   text-decoration: none;
+}
+a:hover, a:active {
+  text-decoration: underline;
 }/*# sourceMappingURL=main.css.map */
