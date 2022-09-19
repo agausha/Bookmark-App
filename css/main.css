@@ -53,4 +53,10 @@ a:hover, a:active {
   width: 20px;
   vertical-align: sub;
   margin-right: 5px;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
 }/*# sourceMappingURL=main.css.map */
