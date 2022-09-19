@@ -39,3 +39,13 @@ h1 {
   width: 500px;
   animation: modalopen 1s;
 }
+
+@keyframes modalopen {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
