@@ -11,6 +11,17 @@ h1 {
   user-select: none;
 
   &:hover {
-    background: $black-color-1;
+    background: $black-color;
   }
+}
+
+// Modal 
+.modal-container {
+  background: $background-color-1;
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
