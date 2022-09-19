@@ -86,6 +86,11 @@ h1:hover {
   padding: 15px;
 }
 
+.modal-content {
+  padding: 20px;
+  background: hsl(0deg, 0%, 96%);
+}
+
 .container {
   display: flex;
   flex-wrap: wrap;
