@@ -104,6 +104,12 @@ h1:hover {
   outline: none;
 }
 
+.form-label {
+  color: hsl(264deg, 36%, 52%);
+  display: block;
+  margin-top: 0.5rem;
+}
+
 .container {
   display: flex;
   flex-wrap: wrap;
